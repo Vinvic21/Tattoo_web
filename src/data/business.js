@@ -8,7 +8,7 @@ export const BUSINESS = {
   address: '1315 Franklin St, Michigan City, IN 46360, United States',
   phoneDisplay: '(219) 874-3912',
   phoneTel: '+12198743912',
-  whatsappNumber: '+254743221529',
+  whatsappNumber: '+19367581151',
   whatsappMessage:
     "Hey Body Gallery! I'd like to inquire about getting a tattoo/piercing.",
   mapsEmbedSrc:
